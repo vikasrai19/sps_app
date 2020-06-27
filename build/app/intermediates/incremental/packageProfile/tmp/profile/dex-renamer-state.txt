@@ -1,0 +1,4 @@
+#Sat Jun 27 11:40:46 IST 2020
+base.0=/home/vikas/vikas/flutter projects/sps_app/build/app/intermediates/dex/profile/mergeDexProfile/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
